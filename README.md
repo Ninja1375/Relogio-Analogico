@@ -4,7 +4,8 @@ Este é um projeto de um **Relógio Analógico** desenvolvido com HTML, CSS e Ja
 
 ## 🖼️ Demonstração
 
-![Demonstração do Relógio](https://i.ibb.co/xqcFrw6/time.png)  
+![Relógio-Analógico](https://github.com/user-attachments/assets/982a51e1-8e9c-4d47-b8a4-ca22f9410f35)
+
 *Exemplo do relógio analógico*
 
 ## 🛠️ Tecnologias Utilizadas
