@@ -32,4 +32,22 @@ O projeto é composto pelos seguintes arquivos:
 
 1. Faça o clone deste repositório:
    ```bash
-   git clone https://github.com/Ninja1375/Relogio-,Analogico.git
+   git clone https://github.com/Ninja1375/Relogio-Analogico.git
+   ```
+
+2. Navegue até o diretório do projeto:
+```bash
+cd Relogio-Digital
+```
+
+3. Abra o arquivo `index.html` no seu navegador preferido.
+
+## 🖌️ Customização
+
+Você pode personalizar o projeto alterando o seguinte:
+
+**- Cores e gradientes:** Editar o arquivo `style.css`.
+
+**- Design do relógio:** Ajustar o HTML ou adicionar novas imagens de fundo.
+
+**- Animações:** Alterar os @keyframes no CSS.
